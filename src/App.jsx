@@ -1,6 +1,7 @@
 import './App.css'
 import Dictator from './components/wrappers/Dictator'
 import { Toaster } from "@/components/ui/toaster"
+import regeneratorRuntime from "regenerator-runtime";
 function App() {
 
   return (
